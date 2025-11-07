@@ -1,0 +1,14 @@
+tanggal,route_code,route_name,gate_in_boo,total_amount,jumlah_pelanggan
+2025-10-01,R001,Bandara-Line,1,2000,1
+2025-10-01,R005,Mall-Express,1,5000,1
+2025-10-01,R010,Kota-Center,0,3500,1
+2025-10-02,R001,Bandara-Line,1,2000,1
+2025-10-02,R010,Bandara-Line,0,3500,1
+2025-10-03,R001,Kota-Center,0,5000,1
+2025-10-03,R005,Mall-Express,0,5000,1
+2025-10-05,R010,Mall-Express,0,7000,1
+2025-10-06,R001,Kota-Center,0,7000,1
+2025-10-06,R010,Kota-Center,1,2000,1
+2025-10-07,R001,Kota-Center,0,3500,1
+2025-10-07,R001,Mall-Express,1,4000,2
+2025-10-07,R010,Mall-Express,1,7000,1
